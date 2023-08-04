@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "c9a5a20b-9e47-48c7-82f3-626fcf43e671",
+            "collectionId": "Galician",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Galician/c9a5a20b-9e47-48c7-82f3-626fcf43e671_ga_Female.mp4"
+        },
+        {
+            "id": "95f66fc3-96ae-40bd-a37d-55e0936193fb",
+            "collectionId": "Galician",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Galician/95f66fc3-96ae-40bd-a37d-55e0936193fb_ga_Female.mp4"
+        },
+        {
+            "id": "1b4d4c15-30bf-4cfc-9e97-51588e6ac4a2",
+            "collectionId": "Galician",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Galician/1b4d4c15-30bf-4cfc-9e97-51588e6ac4a2_ga_Female.mp4"
+        }
+    ]
+}
